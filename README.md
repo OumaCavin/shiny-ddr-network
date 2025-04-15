@@ -8,7 +8,7 @@ This is a Shiny web application to **visualize potential synthetic lethal (SL) i
 <img src="resources/network.png" alt="DDR Shiny App Network View" width="800"/>
 
 
-**[DDR Shiny App Network View](https://github.com/OumaCavin/shiny-ddr-network/blob/main/resources/resources/network.png)**.
+**[DDR Shiny App Network View](https://github.com/OumaCavin/shiny-ddr-network/blob/main/resources/network.png)**.
 
 
 ## 🔗 Live Demo
