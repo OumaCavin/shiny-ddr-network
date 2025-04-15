@@ -1,0 +1,10 @@
+name: shiny-ddr-network
+title:
+username: oumacavin
+account: oumacavin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14530633
+bundleId: 10120509
+url: https://oumacavin.shinyapps.io/shiny-ddr-network/
+version: 1
